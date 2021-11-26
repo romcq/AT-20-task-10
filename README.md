@@ -40,3 +40,8 @@
 
 
 ![image](https://user-images.githubusercontent.com/71966352/143553960-9c40e056-6caa-4919-96f2-e752e12c735b.png)
+
+
+# Скриншот отладчика
+
+![image](https://user-images.githubusercontent.com/71966352/143554916-1e10dc27-4a81-4b33-aaac-cfca9400c4a8.png)
